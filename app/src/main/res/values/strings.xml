@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Laboratorio2_Fragmentos_Tarea</string>
+
+    <string name="grau_nombre">Miguel Grau</string>
+    <string name="grau_descripcion_corta">Nació en en Piura (Perú), el 27 de julio de 1834. Sus Padres fueron Manuel Grau y María...</string>
+    <string name="grau_descripcion_larga">Nació en en Piura (Perú), el 27 de julio de 1834. Sus Padres fueron Manuel Grau y María Seminario. Desde muy joven trabajo en la marina mercante y en 1853 ingreso a La Marina de Guerra. Durante la Guerra contra España participó en el combate de Abtao (07/02/1866), donde los aliados peruano-chilenos resultaron vencedores.</string>
+
+    <string name="tupac_nombre">Tupac Amaru</string>
+    <string name="tupac_descripcion_corta">Su verdadero nombre fue “José Gabriel Condorcanqui Noguera”, fue un caudillo indígena...</string>
+    <string name="tupac_descripcion_larga">Su verdadero nombre fue “José Gabriel Condorcanqui Noguera”, fue un caudillo indígena líder de la mayor rebelión anticolonial que se dio en América durante el siglo XVIII.  Curaca (jefe nativo) de Surimana, Tungasuca y Pampamarca, era adinerado y se dedicaba al comercio.</string>
+
+    <string name="hipolito_nombre">Hipolito Unanue</string>
+    <string name="hipolito_descripcion_corta">Hipólito Unanue Nació en Arica el 13 de agosto de 1755. Sus Padres Miguel Unanue y Pavón...</string>
+    <string name="hipolito_descripcion_larga">Hipólito Unanue Nació en Arica el 13 de agosto de 1755. Sus Padres were Miguel Unanue y Pavón Manuela.Estudio Medicina en la Universidad San Marcos de Lima. En la Década de 1790 FUE Miembro de la Sociedad Amantes del País y Dirigió la revista Mercurio Peruano.</string>
+
+    <string name="bolognesi_nombre">Francisco Bolognesi</string>
+    <string name="bolognesi_descripcion_corta">Francisco Bolognesi Cervantes es uno de los Principales héroes peruanos de la Guerra...</string>
+    <string name="bolognesi_descripcion_larga">Nació en en Piura (Perú), el 27 de julio de 1834. Sus Padres fueron Manuel Grau y María Seminario. Desde muy joven trabajo en la marina mercante y en 1853 ingreso a La Marina de Guerra. Durante la Guerra contra España participó en el combate de Abtao (07/02/1866), donde los aliados peruano-chilenos resultaron vencedores.</string>
+
+    <string name="ugarte_nombre">Alfonso Ugarte</string>
+    <string name="ugarte_descripcion_corta">Alfonso Ugarte Vernal es uno de los principales héroes peruanos de la Guerra contra Chile...</string>
+    <string name="ugarte_descripcion_larga">Alfonso Ugarte Vernal es uno de los principales héroes peruanos de la Guerra contra Chile. Nació en Iquique, el 13 de julio de 1847, siendo sus padres don Narciso Ugarte y doña Rosa Vernal. Estudió contabilidad y administró las empresas salitreras de su familia. Llegó a ser Alcalde de Iquique. </string>
+
+</resources>
